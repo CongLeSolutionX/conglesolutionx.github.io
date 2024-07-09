@@ -6,16 +6,16 @@ This repository contains technical articles on various AI techniques, including 
 
 ### Image Retrieval
 
-- **Version 1.0:** [Revolutionizing Image Retrieval: New Techniques to Retrieve Realistic Images from Latent Space in SDXL Checkpoint Models](https://github.com/conglesolutionx/RealisticImageGen/tree/image-retrieval-v1.0)
-- **Version 1.1:** [Advanced Image Retrieval: Improved Techniques for Realistic Images from Latent Space in SDXL Checkpoint Models](https://github.com/conglesolutionx/RealisticImageGen/tree/image-retrieval-v1.1)
+- **Version 1.0:** [Revolutionizing Image Retrieval: New Techniques to Retrieve Realistic Images from Latent Space in SDXL Checkpoint Models](https://conglesolutionx.github.io/)
+- **Version 1.1:** [Title of Next Article](#)
 
 ### Other Topics
 
-- **Version 1.0:** [Title of Other Article](https://github.com/conglesolutionx/RealisticImageGen/tree/other-topics-v1.0)
+- **Version 1.0:** [Title of Other Article](#)
 
 ## License
 
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. 
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
@@ -42,7 +42,7 @@ For Version 1.0:
 
 ## Acknowledgments
 
-This repository uses a website template from Nerfies, which is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. 
+This repository uses a website template from Nerfies, which is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
 
 ## Changelog
